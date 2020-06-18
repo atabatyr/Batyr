@@ -1,2 +1,0 @@
-# Batyr
-Created with CodeSandbox
